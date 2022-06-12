@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: сourierTest.DeleteCourierTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 1.442 s <<< FAILURE! - in сourierTest.DeleteCourierTest
+deleteNotExistCourier(сourierTest.DeleteCourierTest)  Time elapsed: 0.538 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...рьера с таким id нет[]> but was:<...рьера с таким id нет[.]>
+	at сourierTest.DeleteCourierTest.deleteNotExistCourier(DeleteCourierTest.java:60)
+
+deleteEmptyCourier(сourierTest.DeleteCourierTest)  Time elapsed: 0.481 s  <<< FAILURE!
+java.lang.AssertionError: expected:<400> but was:<404>
+	at сourierTest.DeleteCourierTest.deleteEmptyCourier(DeleteCourierTest.java:67)
+

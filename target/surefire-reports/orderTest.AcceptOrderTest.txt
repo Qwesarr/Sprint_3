@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: orderTest.AcceptOrderTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.157 s <<< FAILURE! - in orderTest.AcceptOrderTest
+acceptEmptyOrderExistCourier(orderTest.AcceptOrderTest)  Time elapsed: 0.611 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Недостаточно данных для поиска]> but was:<[Not Found.]>
+	at orderTest.AcceptOrderTest.acceptEmptyOrderExistCourier(AcceptOrderTest.java:129)
+
