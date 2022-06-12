@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: сourierTest.CreateIdenticalLoginCourierTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.537 s <<< FAILURE! - in сourierTest.CreateIdenticalLoginCourierTest
+CreateIdenticalLoginCourierError(сourierTest.CreateIdenticalLoginCourierTest)  Time elapsed: 0.536 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...гин уже используется[]> but was:<...гин уже используется[. Попробуйте другой.]>
+	at сourierTest.CreateIdenticalLoginCourierTest.CreateIdenticalLoginCourierError(CreateIdenticalLoginCourierTest.java:59)
+

@@ -1,0 +1,6 @@
+clients\CourierClient.class
+clients\OrderClient.class
+dto\CourierDto.class
+dto\OrderDto.class
+clients\RestAssuredClient.class
+dto\LoginDto.class

@@ -1,0 +1,11 @@
+сourierTest\CourierLoginTest.class
+testData\CourierTestData.class
+orderTest\CreateNewOrderTest.class
+orderTest\FindOrderDataTest.class
+сourierTest\CreateWithoutParamsTest.class
+сourierTest\DeleteCourierTest.class
+сourierTest\CreateNewCourierTest.class
+сourierTest\CourierLoginWithoutParamTest.class
+сourierTest\CreateIdenticalLoginCourierTest.class
+orderTest\OrderListTest.class
+orderTest\AcceptOrderTest.class
